@@ -6,10 +6,9 @@
 
 - 🌱 I’m currently learning more about distributed systems.
 - 👯 I’m looking to collaborate on more open source projects based on rust. 
-- ⚡ Fun fact: In my free time I do competitve programming.
   
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dak-x&theme=onedark&hide=css,html&layout=compact&border_radius=10&langs_count=4)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dak-x&theme=onedark&hide=css,html,c++&layout=compact&border_radius=10&langs_count=4)]()
 [![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dak-x&theme=onedark&show_icons=true&border_radius=10&hide=issues,prs)]()
 
 
